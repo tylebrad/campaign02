@@ -1,6 +1,6 @@
 # 3308 Campaign 02 -- Wait Time Simulator
 
-## Due Date: Feburary 10, 2019 @ 2300
+## Due Date: February 10, 2019 @ 2300
 
 ## Problem Statement
 The TSA (Transportation Security Administration) has had trouble recently balancing customer service with operating costs. At many airports, they don't have enough security lines open making travelers angry, because they have to wait in line for so long. However, at other airports, they have too many lines open, which costs money (paying the personnel and managing extra equipment). The Director of the TSA has decided that the agency needs software that will tell each airport how many lines to keep open. Luckily for them, your are the Chief Data Scientist of Bloated Government Contracts, Inc. and are willing to produce this for only several million dollars.
