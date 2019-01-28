@@ -52,7 +52,7 @@ public class Simulation {
      * Executes the Simulation
      */
     public void runSimulation() {
-
+        throw new UnsupportedOperationException("Not yet implemented");
     }
 
     /**
