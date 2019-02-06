@@ -8,7 +8,7 @@ import java.util.Random;
  * Class representing a wait time simulation program.
  *
  * @author Isaac Griffith
- * @author
+ * @author Bradley Tyler
  */
 public class Simulation {
 
@@ -33,7 +33,7 @@ public class Simulation {
     }
 
     /**
-     * Constructs a new siulation with the given arrival rate and maximum number of queues. The Random
+     * Constructs a new simulation with the given arrival rate and maximum number of queues. The Random
      * number generator is seeded with the provided seed value, and the number of iterations is set to
      * the provided value.
      *
